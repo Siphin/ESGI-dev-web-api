@@ -33,15 +33,11 @@ function sum(...args) {
   return total;
 }
 
-console.log(sum(1, 2, 3, 4)); // Output: 10
+console.log(sum(1, 2, 3, 4)); // Out**put: 10
 ```
 
 
-- Fonction ***sort*** :
-    compareFn(a, b) :
-        - > 0 : a after b
-        - < 0 : a before b
-        - === 0 : original order
+- Fonction ***sort*** : ***compareFn(a, b)*** ---> ***> 0*** : *a after b* | ***< 0*** : *a before b* | ***=== 0*** : *original order*
 
 
-- Vidéo interressante sur le sujet : ***https://www.youtube.com/watch?v=66tfvFeALBQ***
+- Vidéo intéressante sur le sujet : ***https://www.youtube.com/watch?v=66tfvFeALBQ***
